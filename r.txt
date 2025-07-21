@@ -1,0 +1,11 @@
+PyMuPDF
+Pillow
+requests
+streamlit
+langchain
+langchain_community
+langchain_core
+python-dotenv
+
+langchain-huggingface
+huggingface-hub
